@@ -1,6 +1,6 @@
-user_1: {"name":"maria",
-	"surname":"bspalova",
-	"age":31,
+user_1: {"name":"monica",
+	"surname":"geller",
+	"age":30,
 	"gender":"female",
 	"animal":1, 
 	"salary": "3 000 USD/month"}
