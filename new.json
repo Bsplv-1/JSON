@@ -3,6 +3,6 @@ user_1: {"name":"monica",
 	"age":30,
 	"gender":"female",
 	"animal":1, 
-	"salary": "3 000 USD/month"}
+	"salary": "3 000 USD/month"};
 
 
